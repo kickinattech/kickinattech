@@ -4,7 +4,7 @@ My name is Russell Dyas, and I discuss all things around cloud architecture & de
 
 - 📫 How to reach me: Y
 
-    - !LinkedIn Logo](/images/social_who/instgram.png)
+    - ![LinkedIn Logo](/images/social_who/instgram.png)
 <!--
 **kickinattech/kickinattech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
