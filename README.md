@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Russell Dyas, and I discuss all things around cloud architecture & design, cybersecurity and DevOps.
+My name is Russell Dyas, and I discuss all things around cloud architecture & design, cybersecurity and devops.
 
 - 📫 How to reach me: 
 
@@ -11,19 +11,13 @@ My name is Russell Dyas, and I discuss all things around cloud architecture & de
      [![TikTok Logo](/images/social_cl/TikTok_logo_24.png) - @KickinAtTech](https://www.tiktok.com/@kickinat)
 
     [![Twitter Logo](/images/social_cl/twitter-icon_24x24.png) - @KickinAtTech](https://www.twitter.com/kickinat)
-
+    
+    [![Email Logo](/images/social_cl/email-icon_square_24x24.png) - @KickinAtTech](https://www.twitter.com/kickinat)
  
-<!--
-**kickinattech/kickinattech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently working in TechOps (cloud architecture & design, cybersecurity and devOps) at [Rencore.com](https://www.Rencore.com)].
+- 👨‍💻 I’m currently working on and building **proprietary source code / systems ** in my current role. Hence why things are not appearing on GitHub.
+- 💬 Areas that I am focused and interested in are Azure architecture & design, cybersecurity and devOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Credits:
+Email icon created by Pixel perfect - Flaticon
