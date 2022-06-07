@@ -12,7 +12,7 @@ My name is Russell Dyas, and I discuss all things around cloud architecture & de
 
     [![Twitter Logo](/images/social_cl/twitter-icon_24x24.png) - @KickinAtTech](https://www.twitter.com/kickinat)
     
-    [![Email Logo](/images/social_cl/email-icon_square_24x24.png) - @KickinAtTech](https://www.twitter.com/kickinat)
+    [![Email Logo](/images/social_cl/email-icon_square_24x24.png) - russ@kickin.at](mail://russ@kickin.at)
  
 
 - 🔭 Currently working in TechOps (cloud architecture & design, cybersecurity and devOps) at [Rencore.com](https://www.Rencore.com).
