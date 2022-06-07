@@ -17,7 +17,7 @@ My name is Russell Dyas, and I discuss all things around cloud architecture & de
 
 - 🔭 Currently working in TechOps (cloud architecture & design, cybersecurity and devOps) at [Rencore.com](https://www.Rencore.com).
 - 👨‍💻 I’m currently working on and building *proprietary source code / systems* in my current role. Hence why things are not appearing on GitHub.
-- 💬 Areas that I am focused and interested in are Azure architecture & design, cybersecurity and devOps.
+- 💬 Areas that I am focused on and interested in are Azure architecture & design, cybersecurity and devOps.
 
 Credits:
 Email icon created by Pixel perfect - Flaticon
