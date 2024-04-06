@@ -26,6 +26,5 @@ I have been passionate about refining processes to achieve success throughout my
 
 Feel free to connect if there is a topic we can discuss or connect with.
 
-- 
 Credits:
 Email icon created by Pixel perfect - Flaticon
