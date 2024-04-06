@@ -22,7 +22,7 @@ I have been passionate about refining processes to achieve success throughout my
 
 - 🔭 Currently working as the Head of Product Operations at [Rencore.com](https://www.Rencore.com).
 - 👨‍💻 I’m currently working on and building *proprietary source code / systems* in my current role. Hence why things are not appearing on GitHub.
-- 💬 Areas that I am focused on and interested in are function building, team cultivation or process optimisation. and from a technical side cloud architecture & design, cybersecurity, SRE and platform engneering space.
+- 💬 Areas that I am focused on and interested in are function building, team cultivation or process optimisation. and from a technical side cloud architecture & design, cybersecurity, SRE and platform engneering.
 
 Feel free to connect if there is a topic we can discuss or connect with.
 - 
