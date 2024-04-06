@@ -25,6 +25,7 @@ I have been passionate about refining processes to achieve success throughout my
 - 💬 Areas that I am focused on and interested in are function building, team cultivation or process optimisation. and from a technical side cloud architecture & design, cybersecurity, SRE and platform engneering.
 
 Feel free to connect if there is a topic we can discuss or connect with.
+
 - 
 Credits:
 Email icon created by Pixel perfect - Flaticon
