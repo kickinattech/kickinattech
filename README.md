@@ -25,7 +25,7 @@ I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I bu
 - Led the rebuild of on-call. AI pulls in every part of the system when an issue arrives and hands engineers a diagnosis, often with the cause already found
 - Built security monitoring on Microsoft Sentinel (log pipelines, normalisation, retention and KQL detections) where AI triages the alerts and a person checks anything it can't back up
 - Run internal pen tests, using AI to find issues faster and cover more ground
-- Built security into how we ship, with scanning in GitHub Actions and Azure DevOps and a set of reusable Bicep modules
+- Made security part of how we ship software and infrastructure, with scanning built into our GitHub Actions and Azure DevOps pipelines
 - Achieved SOC 2 and ISO 27001 with our Head of Compliance and Legal, designing the new processes and using AI to map controls and gather evidence
 - Cut yearly cloud spend by 30% with an infrastructure redesign, and set up a FinOps practice with Finance
 - Write security docs for engineers, leaders and customers, and my team supplies much of the detail behind customer security questionnaires
