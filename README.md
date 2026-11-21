@@ -46,8 +46,8 @@ I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I bu
 ![PowerShell](https://img.shields.io/badge/PowerShell-7147a6?style=flat-square)
 ![Logic Apps](https://img.shields.io/badge/Logic%20Apps-7147a6?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7147a6?style=flat-square)
-![SOC 2](https://img.shields.io/badge/SOC%202-47a671?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-47a671?style=flat-square)
+![SOC 2](https://img.shields.io/badge/SOC%202-7147a6?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-7147a6?style=flat-square)
 
 Most of this lives in private company repos, so not much of it shows up here.
 
