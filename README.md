@@ -28,7 +28,7 @@ I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I bu
 - Made security part of how we ship software and infrastructure, with scanning built into our GitHub Actions and Azure DevOps pipelines
 - Achieved SOC 2 and ISO 27001 with our Head of Compliance and Legal, designing the new processes and using AI to map controls and gather evidence
 - Cut yearly cloud spend by 30% with an infrastructure redesign, and set up a FinOps practice with Finance
-- Write security docs for engineers, leaders and customers, and my team supplies much of the detail behind customer security questionnaires
+- Write security documentation for engineers, leaders and customers, and my team supplies much of the detail behind customer security questionnaires
 
 ## What I work with
 
