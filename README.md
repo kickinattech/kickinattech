@@ -8,7 +8,7 @@
 
 20+ years partnering with founders, CEOs and leaders across startups and scaleups. I can join at any stage, as the only technical person in a startup, into a small team in a scaleup or further along, and take the function to the next one. Today that means AI, InfoSec & Cybersecurity and cloud infrastructure: the parts of the business nobody notices until they break, and that customers feel long before a dashboard shows it.
 
-I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I built the department from scratch. It covers security, cloud infrastructure and our developer platform, and I lead how we use AI across all of it.
+I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I built the departments from scratch. They cover security, cloud infrastructure and our developer platform, and I lead how we use AI across all of it.
 
 ## What I work on
 
