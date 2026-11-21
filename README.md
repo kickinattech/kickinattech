@@ -16,7 +16,7 @@ I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I bu
 - InfoSec & Cybersecurity: security monitoring, identity and access, cloud security, pen testing and compliance
 - Cloud Infrastructure: architecture decisions that shape performance, security and the monthly bill
 - Technical Support, Ops & QA: keeping the systems customers depend on running when nobody's watching
-- Build and Scale: joining a function at whatever stage it's at and growing it without it falling over
+- Build and Scale: joining a function at whatever stage it is at and growing it without it falling over
 - Team Architecture: designing teams of people and AI agents that can carry all of the above
 
 ## Recent work
