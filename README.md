@@ -22,7 +22,7 @@ I'm Head of Product Operations at [Rencore](https://www.rencore.com), where I bu
 ## Recent work
 
 - Took the team from writing prompts to working with Claude every day, including AI agents that own whole pieces of work
-- Rebuilt on-call so AI pulls in every part of the system when an issue arrives and hands engineers a diagnosis, often with the cause already found
+- Led the rebuild of on-call. AI pulls in every part of the system when an issue arrives and hands engineers a diagnosis, often with the cause already found
 - Built security monitoring on Microsoft Sentinel (log pipelines, normalisation, retention and KQL detections) where AI triages the alerts and a person checks anything it can't back up
 - Run internal pen tests, using AI to find issues faster and cover more ground
 - Built security into how we ship, with scanning in GitHub Actions and Azure DevOps and a set of reusable Bicep modules
